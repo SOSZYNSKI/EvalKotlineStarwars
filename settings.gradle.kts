@@ -41,3 +41,7 @@ include(":features:availibility:data")
 include(":features:reservation:ui")
 include(":features:reservation:domain")
 include(":features:reservation:data")
+
+include(":features:reservationView:ui")
+include(":features:reservationView:domain")
+include(":features:reservationView:data")

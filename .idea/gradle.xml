@@ -32,6 +32,10 @@
             <option value="$PROJECT_DIR$/features/reservation/data" />
             <option value="$PROJECT_DIR$/features/reservation/domain" />
             <option value="$PROJECT_DIR$/features/reservation/ui" />
+            <option value="$PROJECT_DIR$/features/reservationView" />
+            <option value="$PROJECT_DIR$/features/reservationView/data" />
+            <option value="$PROJECT_DIR$/features/reservationView/domain" />
+            <option value="$PROJECT_DIR$/features/reservationView/ui" />
           </set>
         </option>
       </GradleProjectSettings>
