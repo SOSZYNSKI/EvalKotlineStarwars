@@ -19,29 +19,13 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Projet1DIIAGE"
+rootProject.name = "EvalKotlineStarWars"
 include(":app")
 
 include(":core:ui")
 include(":core:domain")
 include(":core:data")
 
-include(":features:characters:ui")
-include(":features:characters:domain")
-include(":features:characters:data")
-
-include(":features:manageSpace:ui")
-include(":features:manageSpace:domain")
-include(":features:manageSpace:data")
-
-include(":features:availibility:ui")
-include(":features:availibility:domain")
-include(":features:availibility:data")
-
-include(":features:reservation:ui")
-include(":features:reservation:domain")
-include(":features:reservation:data")
-
-include(":features:reservationView:ui")
-include(":features:reservationView:domain")
-include(":features:reservationView:data")
+include(":features:StarWars:ui")
+include(":features:StarWars:domain")
+include(":features:StarWars:data")
